@@ -16,4 +16,4 @@ CSS
 
 JavaScript 
 
-link di github pages:https://pedro-maciel77.github.io/Premier-League-2015-2016/
+Link Github Pages:https://pedro-maciel77.github.io/Premier-League-2015-2016/
