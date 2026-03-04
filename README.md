@@ -10,8 +10,8 @@ A temporada ficou marcada pelo título histórico do Leicester City, considerado
 
 🛠️ Tecnologias Utilizadas
 
-HTML5 – Estrutura da página
+HTML
 
-CSS3 – Estilização e layout
+CSS  
 
-JavaScript – Lógica e manipulação da tabela
+JavaScript 
